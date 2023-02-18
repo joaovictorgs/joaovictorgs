@@ -9,3 +9,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="joaovictorgs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+<<<<<<< HEAD
+=======
+  
+
+>>>>>>> 447d5f02ae6dcd09368726ec2d80a40823b65f86
