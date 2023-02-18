@@ -9,7 +9,3 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="joaovictorgs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-  
-##
-
-![Snake animation](https://github.com/joaovictorgs/joaovictorgs/blob/output/github-contribution-grid-snake.svg)
